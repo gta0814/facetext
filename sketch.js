@@ -9,8 +9,8 @@
 // ASCII image source text: https://editor.p5js.org/codingtrain/sketches/LNBpdYQHP
 // ASCII image weather API: https://editor.p5js.org/codingtrain/sketches/DhdqcoWn4
 
-//const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
-const density = "                    _.,-=+:;cba!?0123456789$W#@Ñ";
+const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
+//const density = "                    _.,-=+:;cba!?0123456789$W#@Ñ";
 // const density = '       .:-i|=+%O#@'
 // const density = '        .:░▒▓█';
 
